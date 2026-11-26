@@ -1,0 +1,37 @@
+stream,seed,method,acc0,acc_drift
+SEA,0,Standard (tau=0.5),0.98075,0.9066666666666667
+SEA,0,Standard (tau=0.8),0.98075,0.9066666666666667
+SEA,0,"Standard, czyste etykiety (kontrola)",0.9975,0.9089999999999999
+SEA,0,CbD (tau=0.5),0.988,0.9079166666666667
+SEA,0,CbD (tau=0.9),0.988,0.9079166666666667
+SEA,0,Dual Boundary (tau=0.5),0.9895,0.9082222222222224
+SEA,1,Standard (tau=0.5),0.9685,0.9064722222222221
+SEA,1,Standard (tau=0.8),0.9685,0.9064722222222221
+SEA,1,"Standard, czyste etykiety (kontrola)",0.9985,0.9094166666666668
+SEA,1,CbD (tau=0.5),0.983,0.9075833333333334
+SEA,1,CbD (tau=0.9),0.983,0.9075833333333334
+SEA,1,Dual Boundary (tau=0.5),0.991,0.9089722222222222
+SEA,2,Standard (tau=0.5),0.97325,0.9059166666666667
+SEA,2,Standard (tau=0.8),0.97325,0.9059166666666667
+SEA,2,"Standard, czyste etykiety (kontrola)",0.9995,0.9087500000000001
+SEA,2,CbD (tau=0.5),0.9875,0.9075833333333334
+SEA,2,CbD (tau=0.9),0.9875,0.9075833333333334
+SEA,2,Dual Boundary (tau=0.5),0.982,0.9068888888888887
+Hyperplane,0,Standard (tau=0.5),0.98875,0.9494722222222222
+Hyperplane,0,Standard (tau=0.8),0.98875,0.9494722222222222
+Hyperplane,0,"Standard, czyste etykiety (kontrola)",0.99375,0.9504722222222222
+Hyperplane,0,CbD (tau=0.5),0.9925,0.9504444444444443
+Hyperplane,0,CbD (tau=0.9),0.9925,0.9504444444444443
+Hyperplane,0,Dual Boundary (tau=0.5),0.99175,0.9498888888888888
+Hyperplane,1,Standard (tau=0.5),0.97925,0.9435277777777777
+Hyperplane,1,Standard (tau=0.8),0.97925,0.9435277777777777
+Hyperplane,1,"Standard, czyste etykiety (kontrola)",0.994,0.9470833333333333
+Hyperplane,1,CbD (tau=0.5),0.99,0.9466111111111112
+Hyperplane,1,CbD (tau=0.9),0.99,0.9466111111111112
+Hyperplane,1,Dual Boundary (tau=0.5),0.983,0.9452777777777778
+Hyperplane,2,Standard (tau=0.5),0.98075,0.9454722222222222
+Hyperplane,2,Standard (tau=0.8),0.98075,0.9454722222222222
+Hyperplane,2,"Standard, czyste etykiety (kontrola)",0.99175,0.9499166666666667
+Hyperplane,2,CbD (tau=0.5),0.989,0.9487222222222221
+Hyperplane,2,CbD (tau=0.9),0.989,0.9487222222222221
+Hyperplane,2,Dual Boundary (tau=0.5),0.98375,0.946388888888889
